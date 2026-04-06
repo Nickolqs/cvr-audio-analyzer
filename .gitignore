@@ -1,0 +1,14 @@
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+out/
+dist/
+build/
+*.spec
+.idea/
+.vscode/
